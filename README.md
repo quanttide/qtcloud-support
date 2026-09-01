@@ -5,6 +5,9 @@
 ## 结构
 
 ```
-src/
-└── site/    # 客户支持门户（qtsupport，support.quanttide.com）
+src/    # 源码（预留）
 ```
+
+## 关联仓库
+
+- [qtsupport](https://github.com/quanttide/qtsupport)：客户支持官网（support.quanttide.com），独立仓库
