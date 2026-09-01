@@ -3,7 +3,8 @@
 ## [Unreleased]
 
 ### Added
-- Studio（`src/studio/`）：Flutter Web 原型——侧边导航（问答 / 工单 / 知识库），种子数据在 `assets/data`（data/profile Solution × 7 + data/journal 案例 × 3 快照），问答台移植第一级自动应答匹配逻辑
+- 初始版本：新增 `apps/qtcloud-support`、`packages/quanttide-support-toolkit`、`examples/default` 子模块
+- `src/site/`（qtsupport）：客户支持门户——React + Vite，support.apple.com 风格，support.quanttide.com
 
 ### Changed
 - 清理 2024 年模板占位内容（示例章节、JupyterBook 文档站配置与发布流水线），重置为应用仓库骨架
