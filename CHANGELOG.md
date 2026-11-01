@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `CONTRIBUTING.md` 新增：提交规则从 `AGENTS.md` 分解而来；`AGENTS.md` 收敛为指向领域仓与本仓 CONTRIBUTING 的指引
 - 初始版本：新增 `apps/qtcloud-support`、`packages/quanttide-support-toolkit`、`examples/default` 子模块
 
 ### Changed
