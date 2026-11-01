@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- `docs/dev-guide`：补客户端分端（studio=B 端 / lite=内外部 C 端，代填是权限不是端的属性）；仓库结构与当前状态同步实况
 - `CONTRIBUTING.md` 新增：提交规则从 `AGENTS.md` 分解而来；`AGENTS.md` 收敛为指向领域仓与本仓 CONTRIBUTING 的指引
 - 初始版本：新增 `apps/qtcloud-support`、`packages/quanttide-support-toolkit`、`examples/default` 子模块
 
